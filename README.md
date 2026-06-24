@@ -1,5 +1,9 @@
 # 💫 About Me:
-# Hi, I'm Tanishque 👋<br><br>🎓 B.Tech Student<br><br>💻 Learning:<br>- C++<br>- Python<br>- AI<br>- Cybersecurity<br><br>🚀 Interested in:<br>- Software Development<br>- Data Analytics<br>- Hackathons<br><br>
+# Hi, I'm Tanishque 👋
+🎓 B.Tech Student
+💻 Learning:
+C++,Python, Cybersecurity
+🚀 Interested in:Software Development,Data Analytics,Hackathons
 
 
 ## 🌐 Socials:
